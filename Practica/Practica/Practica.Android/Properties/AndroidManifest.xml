@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="5.0" package="com.companyname.Practica" android:installLocation="auto" android:versionCode="5">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="26" />
+	<application android:label="Practica.Android" android:icon="@mipmap/icon"></application>
+</manifest>

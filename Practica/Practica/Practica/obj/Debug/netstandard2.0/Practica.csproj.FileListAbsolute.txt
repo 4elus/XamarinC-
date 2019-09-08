@@ -1,0 +1,12 @@
+C:\С#\Practica\Practica\Practica\bin\Debug\netstandard2.0\Practica.deps.json
+C:\С#\Practica\Practica\Practica\bin\Debug\netstandard2.0\Practica.dll
+C:\С#\Practica\Practica\Practica\bin\Debug\netstandard2.0\Practica.pdb
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\Practica.csproj.CoreCompileInputs.cache
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\Practica.AssemblyInfoInputs.cache
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\Practica.AssemblyInfo.cs
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\Practica.dll
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\Practica.pdb
+C:\С#\Practica\Practica\Practica\obj\Debug\netstandard2.0\Practica.csprojAssemblyReference.cache

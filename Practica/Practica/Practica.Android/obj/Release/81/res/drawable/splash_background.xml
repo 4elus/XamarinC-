@@ -1,0 +1,2 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">”
+  <item><bitmap android:src="@drawable/bg" android:tileMode="disabled" android:gravity="center" /></item><item><bitmap android:src="@drawable/logo" android:tileMode="disabled" android:gravity="center" /></item></layer-list>
